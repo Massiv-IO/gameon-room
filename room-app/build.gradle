@@ -14,8 +14,6 @@ dependencies {
     providedCompile 'javax.enterprise.concurrent:javax.enterprise.concurrent-api:1.0'
     compile 'org.mongodb:mongo-java-driver:2.12.3'
 
-    compile 'foo.bar:baz:1.0.0'
-
     compile 'com.github.gameontext:signed:v1.0.3'
 
     // kafka client =)
