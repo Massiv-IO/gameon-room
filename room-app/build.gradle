@@ -3,8 +3,6 @@ apply plugin: 'eclipse-wtp'
 
 sourceCompatibility = 1.8
 
-foo = foo + 1;
-
 dependencies {
     providedCompile group:'javax.websocket', name:'javax.websocket-api', version:'1.1'
     providedCompile group:'javax.ws.rs', name:'javax.ws.rs-api', version:'2.0'
